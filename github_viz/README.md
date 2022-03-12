@@ -1,0 +1,1 @@
+This folder contains three versions of the same sample diagram, each using a different syntax supported by the preview plugin I'm using. It seems that only diagrams delimited with three backticks followed by "mermaid" are correctly plotted both on VSCode and Github.
